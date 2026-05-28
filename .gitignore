@@ -1,0 +1,4 @@
+api_key.md
+__pycache__/
+*.py[cod]
+.pytest_cache/
